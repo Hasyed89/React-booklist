@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.eacd0856.css",
-    "main.js": "/static/js/main.33205120.js",
-    "index.html": "/index.html",
-    "main.eacd0856.css.map": "/static/css/main.eacd0856.css.map",
-    "main.33205120.js.map": "/static/js/main.33205120.js.map"
+    "main.css": "/React-booklist/static/css/main.eacd0856.css",
+    "main.js": "/React-booklist/static/js/main.33205120.js",
+    "index.html": "/React-booklist/index.html",
+    "main.eacd0856.css.map": "/React-booklist/static/css/main.eacd0856.css.map",
+    "main.33205120.js.map": "/React-booklist/static/js/main.33205120.js.map"
   },
   "entrypoints": [
     "static/css/main.eacd0856.css",
