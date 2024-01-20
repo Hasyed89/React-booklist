@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-booklist/static/css/main.eacd0856.css",
-    "main.js": "/React-booklist/static/js/main.d32a07bf.js",
+    "main.css": "/React-booklist/static/css/main.3494de72.css",
+    "main.js": "/React-booklist/static/js/main.51006d1e.js",
     "index.html": "/React-booklist/index.html",
-    "main.eacd0856.css.map": "/React-booklist/static/css/main.eacd0856.css.map",
-    "main.d32a07bf.js.map": "/React-booklist/static/js/main.d32a07bf.js.map"
+    "main.3494de72.css.map": "/React-booklist/static/css/main.3494de72.css.map",
+    "main.51006d1e.js.map": "/React-booklist/static/js/main.51006d1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.eacd0856.css",
-    "static/js/main.d32a07bf.js"
+    "static/css/main.3494de72.css",
+    "static/js/main.51006d1e.js"
   ]
 }
